@@ -1,0 +1,6 @@
+[submodule "alten-vehicle-monitor-server"]
+	path = alten-vehicle-monitor-server
+	url = https://github.com/amir-sse/alten-vehicle-monitor-server.git
+[submodule "alten-vehicle-monitor-ui"]
+	path = alten-vehicle-monitor-ui
+	url = https://github.com/amir-sse/alten-vehicle-monitor-ui.git
